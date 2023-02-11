@@ -1,0 +1,24 @@
+.f1,.f3{
+    position: fixed;
+    background-color: red;
+    color: black;
+    margin-top: 35px;
+    size: 10px;
+}
+.f2{
+    position: fixed;
+    background-color: green;
+    color: black;
+    margin-top: 10px; 
+    size: 10px;
+}
+.f1{
+margin-top: 5px;
+}
+.f4{
+    position: fixed;
+    background-color: green;
+    color: black;
+    margin-top: 0px; 
+    size: 10px;
+}
